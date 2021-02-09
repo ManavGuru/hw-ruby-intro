@@ -1,5 +1,6 @@
 # When done, submit this entire file to the autograder.
-
+#UIN: 830000011
+#Manav Gurumoorthy
 # Part 1
 
 def sum arr
